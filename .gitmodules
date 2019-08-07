@@ -1,0 +1,3 @@
+[submodule "exercises/ex1/geopandas-tutorial"]
+	path = exercises/ex1/geopandas-tutorial
+	url = https://github.com/jorisvandenbossche/geopandas-tutorial.git
